@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://tylerlh.github.io/csb-brf1t0/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://tylerlh.github.io/csb-brf1t0/static/js/main.a6bcf55c.chunk.js",
+    "main.js.map": "https://tylerlh.github.io/csb-brf1t0/static/js/main.a6bcf55c.chunk.js.map",
+    "runtime-main.js": "https://tylerlh.github.io/csb-brf1t0/static/js/runtime-main.ef0dbb0a.js",
+    "runtime-main.js.map": "https://tylerlh.github.io/csb-brf1t0/static/js/runtime-main.ef0dbb0a.js.map",
+    "static/js/2.133fd3fe.chunk.js": "https://tylerlh.github.io/csb-brf1t0/static/js/2.133fd3fe.chunk.js",
+    "static/js/2.133fd3fe.chunk.js.map": "https://tylerlh.github.io/csb-brf1t0/static/js/2.133fd3fe.chunk.js.map",
+    "index.html": "https://tylerlh.github.io/csb-brf1t0/index.html",
+    "precache-manifest.9cd166bc4c9cbdb59f9ea39e05ba71db.js": "https://tylerlh.github.io/csb-brf1t0/precache-manifest.9cd166bc4c9cbdb59f9ea39e05ba71db.js",
+    "service-worker.js": "https://tylerlh.github.io/csb-brf1t0/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://tylerlh.github.io/csb-brf1t0/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.133fd3fe.chunk.js.LICENSE.txt": "https://tylerlh.github.io/csb-brf1t0/static/js/2.133fd3fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef0dbb0a.js",
+    "static/js/2.133fd3fe.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.a6bcf55c.chunk.js"
+  ]
+}
